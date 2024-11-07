@@ -1,0 +1,11 @@
+# Archivos generados por Visual Studio
+.vs/
+.vscode/
+bin/
+obj/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.dbmdl
+*.bak
