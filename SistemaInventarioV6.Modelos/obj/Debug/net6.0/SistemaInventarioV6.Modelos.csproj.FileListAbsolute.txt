@@ -1,0 +1,12 @@
+D:\PROYECTOS\SistemaInventarioV6\SistemaInventarioV6.Modelos\bin\Debug\net6.0\SistemaInventarioV6.Modelos.deps.json
+D:\PROYECTOS\SistemaInventarioV6\SistemaInventarioV6.Modelos\bin\Debug\net6.0\SistemaInventarioV6.Modelos.dll
+D:\PROYECTOS\SistemaInventarioV6\SistemaInventarioV6.Modelos\bin\Debug\net6.0\SistemaInventarioV6.Modelos.pdb
+D:\PROYECTOS\SistemaInventarioV6\SistemaInventarioV6.Modelos\obj\Debug\net6.0\SistemaInventarioV6.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROYECTOS\SistemaInventarioV6\SistemaInventarioV6.Modelos\obj\Debug\net6.0\SistemaInventarioV6.Modelos.AssemblyInfoInputs.cache
+D:\PROYECTOS\SistemaInventarioV6\SistemaInventarioV6.Modelos\obj\Debug\net6.0\SistemaInventarioV6.Modelos.AssemblyInfo.cs
+D:\PROYECTOS\SistemaInventarioV6\SistemaInventarioV6.Modelos\obj\Debug\net6.0\SistemaInventarioV6.Modelos.csproj.CoreCompileInputs.cache
+D:\PROYECTOS\SistemaInventarioV6\SistemaInventarioV6.Modelos\obj\Debug\net6.0\SistemaInventarioV6.Modelos.sourcelink.json
+D:\PROYECTOS\SistemaInventarioV6\SistemaInventarioV6.Modelos\obj\Debug\net6.0\SistemaInventarioV6.Modelos.dll
+D:\PROYECTOS\SistemaInventarioV6\SistemaInventarioV6.Modelos\obj\Debug\net6.0\refint\SistemaInventarioV6.Modelos.dll
+D:\PROYECTOS\SistemaInventarioV6\SistemaInventarioV6.Modelos\obj\Debug\net6.0\SistemaInventarioV6.Modelos.pdb
+D:\PROYECTOS\SistemaInventarioV6\SistemaInventarioV6.Modelos\obj\Debug\net6.0\ref\SistemaInventarioV6.Modelos.dll
